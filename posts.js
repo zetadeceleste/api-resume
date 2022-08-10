@@ -1,7 +1,7 @@
 module.exports = [
   {
-    title: 'Celeste Zapata',
-    currentRole: 'Frontend Developer',
-    currentCompany: 'Slang',
-  }
+    title: "Celeste Zapata",
+    currentRole: "Frontend Developer",
+    currentCompany: "Slang",
+  },
 ];
