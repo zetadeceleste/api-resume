@@ -9,7 +9,7 @@ module.exports = [
   },
   {
     name: "Italian",
-    level: "Elementary",
+    level: "Beginner",
   },
   {
     name: "Portuguese",
