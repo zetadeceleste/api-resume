@@ -7,9 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Celeste Zapata",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "engines": {
+    "node": "16.13.x"
   }
 }

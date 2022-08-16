@@ -5,7 +5,7 @@ const hobbies = require("./hobbies");
 const languages = require("./languages");
 const others = require("./others");
 const profile = require("./profile");
-const workHistory = require("./workHistory");
+const workHistory = require("./work-history");
 
 app.get("/", (req, res) => {
   res.send("It's running");
