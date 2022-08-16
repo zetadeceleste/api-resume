@@ -7,6 +7,10 @@ const others = require("./others");
 const profile = require("./profile");
 const workHistory = require("./work-history");
 
+const cors = require("cors");
+
+app.use(cors());
+
 app.get("/", (req, res) => {
   res.send("It's running");
 });
